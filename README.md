@@ -1,2 +1,2 @@
 To-Do App
-By Krishna
+By Krishna Khaneja
